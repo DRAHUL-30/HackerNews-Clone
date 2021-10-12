@@ -1,0 +1,23 @@
+.login {
+  position: fixed;
+  top: 10px;
+  right: 25px;
+  color: black;
+  text-decoration: none;
+}
+
+.top{
+  color:black;
+  margin-left: 90%;
+  margin-top: 3%;
+}
+
+.login{
+  color: red;
+  margin-right: 5%;
+}
+
+/* .post{
+  color: black;
+  margin-bottom: 1rem;
+} */
